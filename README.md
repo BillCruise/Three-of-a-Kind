@@ -1,10 +1,10 @@
-# Three-of-a-Kind
+# [Three-of-a-Kind](https://play.google.com/store/apps/details?id=com.billthelizard.threeofakind&hl=en)
 
 ## Privacy Policy
 
 Last updated: May 29, 2017
 
-Your privacy is very important. This privacy policy informs you about what data is collected and how it is used when you run Three of a Kind on your device. 
+Your privacy is very important. This privacy policy informs you about what data is collected and how it is used when you run [Three of a Kind](https://play.google.com/store/apps/details?id=com.billthelizard.threeofakind&hl=en) on your device. 
 
 ## What information we collect: 
 
